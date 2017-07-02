@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyectocv;
+package proyectocompuvisual;
 
 /**
  *
- * @author HermesBot
+ * @author pppppppppppppppppppp
  */
-public class ProyectoCV {
+public class ProyectoCompuVisual {
 
     /**
      * @param args the command line arguments
