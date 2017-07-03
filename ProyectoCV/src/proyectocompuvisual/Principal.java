@@ -161,9 +161,9 @@ public class Principal extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
-        Ventas v= new Ventas();
-        v.setVisible(true);
-        dispose();
+        Ventas ven= new Ventas();
+        ven.setVisible(true);
+        //dispose();
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
@@ -174,28 +174,28 @@ public class Principal extends javax.swing.JFrame {
         // TODO add your handling code here:
         Clientes c= new Clientes();
         c.setVisible(true);
-        dispose();
+        
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         Vendedores v= new Vendedores();
         v.setVisible(true);
-        dispose();
+        
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
         Productos p = new Productos();
         p.setVisible(true);
-        dispose();
+        
     }//GEN-LAST:event_jButton4ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
         STOCK s = new STOCK();
         s.setVisible(true);
-        dispose();
+        
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
