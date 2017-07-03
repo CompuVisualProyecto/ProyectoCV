@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author pppppppppppppppppppp
+ * @author 
  */
 public class OrConexion {
     
